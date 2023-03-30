@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-construction-website/static/css/main.073c9b0a.css",
+    "main.js": "/reactjs-construction-website/static/js/main.db12f7ce.js",
+    "static/js/787.9caf417c.chunk.js": "/reactjs-construction-website/static/js/787.9caf417c.chunk.js",
+    "static/media/banner-bg.png": "/reactjs-construction-website/static/media/banner-bg.ad8f350f856e6e742404.png",
+    "static/media/about-img.png": "/reactjs-construction-website/static/media/about-img.9bef2c5f74e9fcdce2d6.png",
+    "static/media/img-7.png": "/reactjs-construction-website/static/media/img-7.7cd6d4958b3e831e5c6f.png",
+    "static/media/img-5.png": "/reactjs-construction-website/static/media/img-5.e90fd3b9df90aaa47056.png",
+    "static/media/img-4.png": "/reactjs-construction-website/static/media/img-4.b95c118a7c3c9228c0b0.png",
+    "static/media/img-3.png": "/reactjs-construction-website/static/media/img-3.4b9df54cd08ae0a09f24.png",
+    "static/media/building.jpg": "/reactjs-construction-website/static/media/building.f5331620dc63f036e86e.jpg",
+    "static/media/img-6.png": "/reactjs-construction-website/static/media/img-6.8930f2f122902aa56ba9.png",
+    "static/media/img-2.png": "/reactjs-construction-website/static/media/img-2.b14e652cd304bb4d2033.png",
+    "static/media/img-1.png": "/reactjs-construction-website/static/media/img-1.6bbdf437dfc7b7045cec.png",
+    "index.html": "/reactjs-construction-website/index.html",
+    "main.073c9b0a.css.map": "/reactjs-construction-website/static/css/main.073c9b0a.css.map",
+    "main.db12f7ce.js.map": "/reactjs-construction-website/static/js/main.db12f7ce.js.map",
+    "787.9caf417c.chunk.js.map": "/reactjs-construction-website/static/js/787.9caf417c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.db12f7ce.js"
+  ]
+}
