@@ -16,7 +16,7 @@
     "router": "^1.3.8",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://marcelo-zuza.github.io/reactjs-construction-website",
+  
 
   "scripts": {
     "predeploy": "npm run build",
